@@ -1,0 +1,185 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-small-2-aGP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.android-small-2-aGP .auto-group-vymf-bBV {
+  margin-right: 2.35rem;
+  width: 39.7rem;
+  height: 64rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .rectangle-2-DcB {
+  width: 12rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 22.7rem;
+  background-color: #000000;
+  border-radius: 5rem;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .background-1-tiK {
+  width: 39.7rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .gun-info-cuD {
+  width: 10.2rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 6.1rem;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.android-small-2-aGP .auto-group-vymf-bBV .rectangle-3-UgX {
+  width: 27.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 4rem;
+  top: 24.3rem;
+  background-color: #000000;
+  border-radius: 5rem;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .email-oTu {
+  width: 3.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 24.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .rectangle-5-Hts {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 20.9rem;
+  background-color: #d9d9d9;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .sign-in-DXd {
+  width: 4.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 20.7rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fffdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .rectangle-6-Joy {
+  width: 27.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 4rem;
+  top: 29.6rem;
+  background-color: #000000;
+  border-radius: 5rem;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .password-qJ7 {
+  width: 6.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .or-Lkf {
+  width: 1.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 17rem;
+  top: 36.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .rectangle-7-Fsd {
+  width: 27.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 4rem;
+  top: 41.3rem;
+  background-color: #000000;
+  border-radius: 5rem;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .continue-with-google-y2w {
+  width: 14.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 41.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .auto-group-vymf-bBV .version-254-TTu {
+  width: 11.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 58.9rem;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-2-aGP .rectangle-4-MZH {
+  margin-top: 1.6rem;
+  width: 27.5rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

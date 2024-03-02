@@ -1,0 +1,145 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-small-4-z4P {
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.android-small-4-z4P .black-background-1-j1y {
+  width: 36rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-small-4-z4P .line-7-GGo {
+  width: 36rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  background-color: #ffffff;
+}
+.android-small-4-z4P .arrow-7-Cw9 {
+  width: 1.8rem;
+  height: 0;
+  position: absolute;
+  left: 33rem;
+  top: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-small-4-z4P .hand-gun-M3M {
+  width: 9.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 2.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-4-z4P .arrow-6-FPd {
+  width: 1.85rem;
+  height: 0;
+  position: absolute;
+  left: 1rem;
+  top: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-small-4-z4P .pistal-1-zc7 {
+  width: 17.3rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-small-4-z4P .pistol-auto-9mm-Xrw {
+  width: 16rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 24.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #fffdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-4-z4P .type-hand-gun-semi-automatic-eRm {
+  width: 15.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 30.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.android-small-4-z4P .caliber-9-x-19-mm-LpP {
+  width: 18.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 37.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-4-z4P .rang-50-meter-TPD {
+  width: 15.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 42.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-4-z4P .origin-india-canada-meo {
+  width: 20.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 48.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

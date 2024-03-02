@@ -1,0 +1,53 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-small-1-5hZ {
+  box-sizing: border-box;
+  padding: 16.5rem 12.2rem 2.4rem 8.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-2-bg.png');
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.android-small-1-5hZ .gun-info-nM5 {
+  margin: 0rem 4.7rem 30.7rem 0rem;
+  max-width: 10.2rem;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-small-1-5hZ .version-254-Ujh {
+  margin-left: 3.3rem;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
